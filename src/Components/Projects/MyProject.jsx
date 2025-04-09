@@ -7,19 +7,37 @@ import Footer from "../Footer/Footer";
 const projects = [
   {
     "title": "Portfolio Web Application",
-    "description": "Developed a fully responsive portfolio using React.js, HTML, CSS, and JavaScript, ensuring compatibility across all devices. Implemented smooth navigation with React Router, enhanced interactivity with React Icons and animations, and optimized performance by deploying on Vercel. The portfolio includes key sections like Home, Skills, Projects, Certifications, and Contact.",
+    "description": "Built a fully responsive portfolio using React.js, HTML, CSS, and JavaScript with smooth navigation via React Router. Highlighted key sections like Skills, Certifications, Projects, and Contact, enhanced with interactive icons and deployed on Vercel for optimal performance.",
     "image": "Images/portfolio.png",
-    "github": "https://github.com/KoushikMehta31/Portfolio",
+    "github": "https://github.com/KoushikMehta31/Personal_Portfolio",
     "linkedin": "#",
-    "Live": "https://portfolio-kzzr.vercel.app/"
+    "Live": "https://personal-portfolio-beige-three-23.vercel.app/"
   }
   ,
 
 {
   "title": "AI AutoCodeReview",
-  "description": "Developed an AI-powered code review tool using Node.js, Express, React.js, and Google Generative AI for automated code analysis. Features AI-driven feedback, syntax highlighting with PrismJS, and seamless frontend-backend communication using Axios and CORS.",
+  "description": "Developed an AI AutoCodeReview tool using Node.js, Express, React.js, and Google Generative AI. Enabled intelligent feedback generation via POST requests, with syntax highlighting (PrismJS) and Markdown rendering for clean code display.",
   "image": "Images/codereview.jpeg", 
   "github": "https://github.com/KoushikMehta31/AI-AutoCodeReview",
+  "linkedin": "#",
+  "Live": "YOUR_LIVE_DEMO_LINK"
+},
+
+{
+  "title": "Enquiry Management System",
+  "description": "Built a full-stack MERN application with complete CRUD operations using local MongoDB for data storage. Designed custom RESTful routes in Node.js and Express, and implemented a responsive React UI with real-time feedback using Flowbite, Toastify, and SweetAlert.",
+  "image": "Images/enquiry.png", 
+  "github": "https://github.com/KoushikMehta31/Enquiry-Management-System",
+  "linkedin": "#",
+  "Live": "YOUR_LIVE_DEMO_LINK"
+},
+
+{
+  "title": "Currency Converter Web App",
+  "description": "Developed a full-stack currency converter using React, Node.js, and Express. Integrated a third-party API for real-time rates, built a responsive UI with dark mode, and preserved user history using localStorage.",
+  "image": "Images/currency.png", 
+  "github": "https://github.com/KoushikMehta31/Currency-Converter",
   "linkedin": "#",
   "Live": "YOUR_LIVE_DEMO_LINK"
 },
