@@ -3,45 +3,10 @@
 ## Description
 This project is a fully responsive portfolio website built using **React.js**, **HTML**, **CSS**, and **JavaScript**. The portfolio includes smooth navigation via **React Router** and highlights key sections like **Skills**, **Certifications**, **Projects**, and **Contact**. It features interactive icons for a modern user experience and is deployed on **Vercel** for fast and reliable performance.
 
-## Table of Contents
-1. [Installation](#installation)
-2. [Usage](#usage)
-3. [Features](#features)
-4. [Technologies Used](#technologies-used)
-5. [Screenshots](#screenshots)
-6. [License](#license)
-7. [Contributing](#contributing)
-8. [Contact](#contact)
-
-## Installation
-
-To get started with this project, follow these steps:
-
-1. Clone the repository:
-    ```bash
-    git clone https://github.com/yourusername/portfolio.git
-    ```
-
-2. Navigate into the project directory:
-    ```bash
-    cd portfolio
-    ```
-
-3. Install dependencies:
-    ```bash
-    npm install
-    ```
-
-4. Start the development server:
-    ```bash
-    npm run dev
-    ```
-
-The app will be live at `http://localhost:3000`.
 
 ## Usage
 
-- Open your browser and go to `http://localhost:3000` to view the portfolio.
+- Open your browser and go to `https://personal-portfolio-beige-three-23.vercel.app/` to view the portfolio.
 - Navigate between different sections like **About Me**, **Projects**, **Skills**, and **Contact** using **React Router**.
 - The portfolio is fully responsive, so it works well on mobile devices, tablets, and desktops.
 
@@ -74,7 +39,7 @@ The homepage serves as the main entry point of the portfolio, featuring a clean 
 The **Skills** section showcases a set of interactive icons representing various technologies and programming languages like **JavaScript**, **React.js**, **Node.js**, and others. Each icon is clickable, providing additional information about the skill and my expertise in it. This section is designed to be **interactive** and provides an engaging way for visitors to explore my technical capabilities.
 
 ### Certifications Section
-![Certifications Section](assets/certificate.png)
+![Certifications Section](assets/certficate.png)
 
 The **Certifications** section highlights my professional certifications and achievements. Each certification is represented by a clickable icon that leads to a detailed explanation. The section is neatly organized to make it easy for visitors to see my credentials at a glance.
 
