@@ -1,6 +1,4 @@
 # Portfolio
-
-## Description
 This project is a fully responsive portfolio website built using **React.js**, **HTML**, **CSS**, and **JavaScript**. The portfolio includes smooth navigation via **React Router** and highlights key sections like **Skills**, **Certifications**, **Projects**, and **Contact**. It features interactive icons for a modern user experience and is deployed on **Vercel** for fast and reliable performance.
 
 
@@ -39,7 +37,7 @@ The homepage serves as the main entry point of the portfolio, featuring a clean 
 The **Skills** section showcases a set of interactive icons representing various technologies and programming languages like **JavaScript**, **React.js**, **Node.js**, and others. Each icon is clickable, providing additional information about the skill and my expertise in it. This section is designed to be **interactive** and provides an engaging way for visitors to explore my technical capabilities.
 
 ### Certifications Section
-![Certifications Section](assets/certficate.png)
+![Certifications Section](assets/public/certficate.png)
 
 The **Certifications** section highlights my professional certifications and achievements. Each certification is represented by a clickable icon that leads to a detailed explanation. The section is neatly organized to make it easy for visitors to see my credentials at a glance.
 
