@@ -64,7 +64,7 @@ The app will be live at `http://localhost:3000`.
 ## Screenshots
 
 ### Homepage
-![Homepage](assets/homepage.png)
+![Homepage](public/Images/homepages.png)
 
 The homepage serves as the main entry point of the portfolio, featuring a clean layout with sections for an **Introduction**, **Skills**, **Projects**, and **Contact**. The **smooth navigation** is enabled through **React Router**, making it easy to switch between different sections. This page is designed to be **responsive**, so it looks great on both desktops and mobile devices.
 
