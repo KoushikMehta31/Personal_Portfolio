@@ -69,22 +69,22 @@ The app will be live at `http://localhost:3000`.
 The homepage serves as the main entry point of the portfolio, featuring a clean layout with sections for an **Introduction**, **Skills**, **Projects**, and **Contact**. The **smooth navigation** is enabled through **React Router**, making it easy to switch between different sections. This page is designed to be **responsive**, so it looks great on both desktops and mobile devices.
 
 ### Skills Section
-![Skills Section](assets/skills-section.png)
+![Skills Section](public/Images/skills.png)
 
 The **Skills** section showcases a set of interactive icons representing various technologies and programming languages like **JavaScript**, **React.js**, **Node.js**, and others. Each icon is clickable, providing additional information about the skill and my expertise in it. This section is designed to be **interactive** and provides an engaging way for visitors to explore my technical capabilities.
 
 ### Certifications Section
-![Certifications Section](assets/certifications-section.png)
+![Certifications Section](assets/certificate.png)
 
 The **Certifications** section highlights my professional certifications and achievements. Each certification is represented by a clickable icon that leads to a detailed explanation. The section is neatly organized to make it easy for visitors to see my credentials at a glance.
 
 ### Projects Section
-![Projects Section](assets/projects-section.png)
+![Projects Section](public/Images/projects.png)
 
 The **Projects** section displays a collection of projects I’ve worked on. Each project is accompanied by a short description, technologies used, and a link to the live project or its source code. The design is clean and easy to navigate, allowing visitors to explore my work in detail.
 
 ### Contact Section
-![Contact Section](assets/contact-section.png)
+![Contact Section](public/Images/contact.png)
 
 The **Contact** section includes a contact form and my personal details like email and social media profiles. Visitors can easily reach out to me directly through the form or connect with me on **LinkedIn** or **GitHub**. It’s designed to be simple and user-friendly.
 
