@@ -52,23 +52,9 @@ The **Projects** section displays a collection of projects I’ve worked on. Eac
 The **Contact** section includes a contact form and my personal details like email and social media profiles. Visitors can easily reach out to me directly through the form or connect with me on **LinkedIn** or **GitHub**. It’s designed to be simple and user-friendly.
 
 ### Mobile View
-![Mobile View](assets/mobile-view.png)
+![Mobile View](assets/public/59004759-f2bc-4483-9316-d4d4139024fa.jpg)
 
 The mobile view ensures that the portfolio is fully **responsive**, providing a seamless experience on smaller screens. The layout adapts to fit smaller device widths, and navigation remains easy and intuitive, ensuring visitors on mobile devices can explore all sections without issues.
 
-Or, view the live demo at [Portfolio Demo](https://your-portfolio.vercel.app)
+Or, view the live demo at [Portfolio Demo](https://personal-portfolio-beige-three-23.vercel.app/)
 
-
-## License
-
-MIT License
-
-## Contributing
-
-We welcome contributions! Please fork the repository, create a new branch, make your changes, and submit a pull request.
-
-## Contact
-
-- Email: your-email@example.com
-- GitHub: [@yourusername](https://github.com/yourusername)
-- LinkedIn: [Your Name](https://www.linkedin.com/in/your-profile)
