@@ -33,9 +33,9 @@ const Skills = () => {
           <h3>🔧 Version Control & Tools:</h3>
           <p>Git, GitHub, MS Word</p>
         </div>
-
+</div>
         <Footer />
-      </div>
+      
     </>
   );
 };
