@@ -37,14 +37,11 @@ const Home = () =>{
   <center className="intro">About Me</center>
 
   <p>
-    I’m <strong>Koushik Mehta</strong>, a passionate and results-driven <strong>Data Analyst</strong> with hands-on experience in 
-    <strong>data cleaning, exploratory data analysis (EDA), visualization, and dashboard development</strong>.
+    I’m <strong>Koushik Mehta</strong>, a passionate and results-driven <strong>Data Analyst</strong> with hands-on experience in<strong> data cleaning, exploratory data analysis (EDA), visualization, and dashboard development</strong>.
   </p>
 
   <p>
-    I’m currently pursuing my B.Tech in <strong>Computer Science Engineering</strong> at 
-    <strong>Birla Institute of Technology, Mesra</strong>, and I hold a Diploma in CSE from 
-    <strong>Al-Kabir Polytechnic</strong>.
+    I’m currently pursuing my B.Tech in <strong>Computer Science Engineering</strong> at<strong> Birla Institute of Technology, Mesra</strong>, and I hold a Diploma in CSE from<strong> Al-Kabir Polytechnic</strong>.
   </p>
 
   <p>
@@ -59,8 +56,7 @@ const Home = () =>{
   </p>
 
   <p>
-    I also bring additional strengths in <strong>web development</strong> (HTML, CSS, JavaScript, React.js), and have explored 
-    <strong>DevOps tools</strong> like <strong>Docker, Kubernetes</strong>, and <strong>CI/CD pipelines</strong> to build scalable solutions.
+    I also bring additional strengths in <strong>web development</strong> (HTML, CSS, JavaScript, React.js).
   </p>
 
   <p>
