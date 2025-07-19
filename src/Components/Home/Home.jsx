@@ -13,9 +13,11 @@ const Home = () =>{
         I'm a <span className="Highlight">Data Analysis</span>.
       </h1>
       <p className="home-description">
-        Frontend Developer | Backend Developer | Programmer
+        Business Analysis | Frontend Developer | Programmer
       </p>
-      <button className="home-button">Resume</button>
+      <a href="https://koushikmehtaresume.tiiny.site/" target="_blank" rel="noopener noreferrer">
+        <button className="home-button">Resume</button>
+      </a>
       <div className="social-icons">
         <a href="https://www.linkedin.com/in/koushik-mehta-7a4975285/" target="_blank" rel="noopener noreferrer">
           <i className="fab fa-linkedin"></i>
@@ -30,32 +32,43 @@ const Home = () =>{
     </div>
     <Degree></Degree>
     
-      <div className='about-par'>
-        <center className='intro-icon'>🙋‍♂️</center>
-        <center className='intro'>Introduction </center>
-    <p>My name is <strong>Koushik Mehta</strong>, and I am from <strong>Jamshedpur</strong>.</p>
-    <p>
-      I have completed my Diploma degree in Computer Science Engineering 
-      from <strong>Al-Kabir Polytechnic</strong>.
-    </p>
-    <p>
-      I am currently pursuing a bachelor's degree in Computer Science Engineering 
-      and I am a 3rd-year student at <strong>Birla Institute of Technology, Mesra</strong>.
-    </p>
-    <p>
-      I have a strong foundation in programming languages like 
-       <strong> Java</strong>, <strong>Python</strong>, and <strong>JavaScript</strong>,
-      along with a good understanding of <strong>data structures</strong> and <strong>algorithms</strong>.
-    </p>
-    <p>
-      I enjoy solving problems and challenges on platforms like 
-      <strong> LeetCode</strong>. I also have hands-on experience in web development using 
-      <strong> HTML</strong>, <strong>CSS</strong>, <strong>JavaScript</strong>, <strong>ReactJS</strong>, <strong>Bootstrap</strong>, and <strong>Tailwind css</strong>,
-      and I am skilled in databases like <strong>MySQL</strong> and <strong>MongoDB</strong>.
-    </p>
-    <p> Additionally, I have explored Knowledge <strong>DevOps</strong>, including <strong>Docker</strong>, <strong>Kubernetes</strong>, and <strong>CI/CD pipelines.</strong>
-    </p>
-    </div>
+      <div className="about-par">
+  <center className="intro-icon">📊</center>
+  <center className="intro">About Me</center>
+
+  <p>
+    I’m <strong>Koushik Mehta</strong>, a passionate and results-driven <strong>Data Analyst</strong> with hands-on experience in 
+    <strong>data cleaning, exploratory data analysis (EDA), visualization, and dashboard development</strong>.
+  </p>
+
+  <p>
+    I’m currently pursuing my B.Tech in <strong>Computer Science Engineering</strong> at 
+    <strong>Birla Institute of Technology, Mesra</strong>, and I hold a Diploma in CSE from 
+    <strong>Al-Kabir Polytechnic</strong>.
+  </p>
+
+  <p>
+    My recent internships at <strong>Tata Steel</strong> and <strong>outriX</strong> helped me gain practical exposure to 
+    <strong>fraud detection, HR analytics, and sales dashboarding</strong> using tools like <strong>Excel, MySQL, Python, and Power BI</strong>.
+  </p>
+
+  <p>
+    I specialize in tools and techniques such as <strong>Python (Pandas, Matplotlib, Seaborn)</strong>, 
+    <strong>SQL</strong> for database management, and <strong>Power BI</strong> for delivering 
+    <strong>interactive business dashboards</strong> that drive insights and decision-making.
+  </p>
+
+  <p>
+    I also bring additional strengths in <strong>web development</strong> (HTML, CSS, JavaScript, React.js), and have explored 
+    <strong>DevOps tools</strong> like <strong>Docker, Kubernetes</strong>, and <strong>CI/CD pipelines</strong> to build scalable solutions.
+  </p>
+
+  <p>
+    With a <strong>problem-solving mindset</strong>, a growing portfolio of real-world data projects, and certifications in 
+    <strong>Data Analytics</strong> and <strong>Machine Learning</strong>, I am eager to contribute to data-driven environments and unlock business value through analytics.
+  </p>
+</div>
+
     <Footer/>
     </center>
   
