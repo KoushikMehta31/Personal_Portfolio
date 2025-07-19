@@ -10,7 +10,7 @@ const Home = () =>{
       <img src="/Images/Me.avif" className="img-fluid about-image" alt="images"></img>
       <div className="home-container">
       <h1>
-        I'm a <span className="Highlight">Software Engineer</span>.
+        I'm a <span className="Highlight">Data Analysis</span>.
       </h1>
       <p className="home-description">
         Frontend Developer | Backend Developer | Programmer
