@@ -13,10 +13,19 @@ const Degree = () => {
           <strong className="highlight">Tata Steel</strong>. 
            Internship.
           <br />
-          ( 5 May 2025 - 7 July 2025 )
+          ( May 2025 - July 2025 )
         </p>
         <p className="card-subcontent">Data Analysis</p>
-{/*       </div> */}
+     
+
+           <p className="card-content">
+          <strong className="highlight">outriX</strong>. 
+           Internship.
+          <br />
+          ( June 2025 - July 2025 )
+        </p>
+        <p className="card-subcontent">Data Analysis</p>
+     
 
 
         <p className="card-content">
@@ -26,13 +35,6 @@ const Degree = () => {
           ( May 2024 - Jun 2024 )
         </p>
         <p className="card-subcontent">Full Stack Web Development</p>
-        {/* <p className="card-content">
-          <strong className="highlight">Sigma E Solutions</strong>. 
-           Internship.
-          <br />
-          ( Jun 2022 - Jul 2022 )
-        </p>
-        <p className="card-subcontent">Frontend Development</p> */}
       </div>
 
       <div className="card">
