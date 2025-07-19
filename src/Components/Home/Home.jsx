@@ -10,7 +10,7 @@ const Home = () =>{
       <img src="/Images/Me.avif" className="img-fluid about-image" alt="images"></img>
       <div className="home-container">
       <h1>
-        I'm a <span className="Highlight">Data Analysis</span>.
+        I'm a <span className="Highlight">Data Analyst</span>.
       </h1>
       <p className="home-description">
         Business Analysis | Frontend Developer | Programmer
@@ -45,14 +45,11 @@ const Home = () =>{
   </p>
 
   <p>
-    My recent internships at <strong>Tata Steel</strong> and <strong>outriX</strong> helped me gain practical exposure to 
-    <strong>fraud detection, HR analytics, and sales dashboarding</strong> using tools like <strong>Excel, MySQL, Python, and Power BI</strong>.
+    My recent internships at <strong>Tata Steel</strong> and <strong>outriX</strong> helped me gain practical exposure to<strong> fraud detection, HR analytics, and sales dashboard</strong> using tools like <strong>Excel, MySQL, Python, and Power BI</strong>.
   </p>
 
   <p>
-    I specialize in tools and techniques such as <strong>Python (Pandas, Matplotlib, Seaborn)</strong>, 
-    <strong>SQL</strong> for database management, and <strong>Power BI</strong> for delivering 
-    <strong>interactive business dashboards</strong> that drive insights and decision-making.
+    I specialize in tools and techniques such as <strong>Python (Pandas, Matplotlib, Seaborn)</strong>,<strong> SQL</strong> for database management, and <strong>Power BI</strong> for delivering<strong> interactive business dashboards</strong> that drive insights and decision-making.
   </p>
 
   <p>
@@ -60,8 +57,7 @@ const Home = () =>{
   </p>
 
   <p>
-    With a <strong>problem-solving mindset</strong>, a growing portfolio of real-world data projects, and certifications in 
-    <strong>Data Analytics</strong> and <strong>Machine Learning</strong>, I am eager to contribute to data-driven environments and unlock business value through analytics.
+    With a <strong>problem-solving mindset</strong>, a growing portfolio of real-world data projects, and certifications in<strong> Data Analytics</strong> and <strong>Machine Learning</strong>, I am eager to contribute to data-driven environments and unlock business value through analytics.
   </p>
 </div>
 
