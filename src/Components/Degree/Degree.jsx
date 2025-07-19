@@ -16,7 +16,7 @@ const Degree = () => {
           ( 5 May 2025 - 7 July 2025 )
         </p>
         <p className="card-subcontent">Data Analysis</p>
-      </div>
+{/*       </div> */}
 
 
         <p className="card-content">
