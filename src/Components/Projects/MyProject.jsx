@@ -4,7 +4,7 @@ import Footer from "../Footer/Footer";
 
 const projects = [
   {
-    title: "Portfolio Web Application",
+    title: "Pan & Aadhaar Card Fraud Detection",
     description:
       "Built a fully responsive portfolio using React.js, HTML, CSS, and JavaScript with smooth navigation via React Router. Highlighted key sections like Skills, Certifications, Projects, and Contact, enhanced with interactive icons and deployed on Vercel for optimal performance.",
     image: "Images/portfolio.png",
@@ -12,12 +12,38 @@ const projects = [
     skills: ["React.js", "HTML", "CSS", "JavaScript"],
   },
   {
-    title: "Enquiry Management System",
+    title: "Indian Bike Sales Analysis Using Excel",
     description:
-      "Built a full-stack MERN application with complete CRUD operations using local MongoDB for data storage. Designed custom RESTful routes in Node.js and Express, and implemented a responsive React UI with real-time feedback using Flowbite, Toastify, and SweetAlert.",
-    image: "Images/enquiry.png",
-    github: "https://github.com/KoushikMehta31/Enquiry-Management-System",
-    skills: ["MongoDB", "Express.js", "React.js", "Node.js", "Flowbite", "Toastify", "SweetAlert"],
+      "Built a fully responsive portfolio using React.js, HTML, CSS, and JavaScript with smooth navigation via React Router. Highlighted key sections like Skills, Certifications, Projects, and Contact, enhanced with interactive icons and deployed on Vercel for optimal performance.",
+    image: "Images/portfolio.png",
+    github: "https://github.com/KoushikMehta31/Personal_Portfolio",
+    skills: ["React.js", "HTML", "CSS", "JavaScript"],
+  },
+  
+  {
+    title: "EDA Placement Analysis Using Python",
+    description:
+      "Built a fully responsive portfolio using React.js, HTML, CSS, and JavaScript with smooth navigation via React Router. Highlighted key sections like Skills, Certifications, Projects, and Contact, enhanced with interactive icons and deployed on Vercel for optimal performance.",
+    image: "Images/portfolio.png",
+    github: "https://github.com/KoushikMehta31/Personal_Portfolio",
+    skills: ["React.js", "HTML", "CSS", "JavaScript"],
+  },
+  
+  {
+    title: "Students Performance in Exam",
+    description:
+      "Built a fully responsive portfolio using React.js, HTML, CSS, and JavaScript with smooth navigation via React Router. Highlighted key sections like Skills, Certifications, Projects, and Contact, enhanced with interactive icons and deployed on Vercel for optimal performance.",
+    image: "Images/portfolio.png",
+    github: "https://github.com/KoushikMehta31/Personal_Portfolio",
+    skills: ["React.js", "HTML", "CSS", "JavaScript"],
+  },
+  {
+    title: "Portfolio Web Application",
+    description:
+      "Built a fully responsive portfolio using React.js, HTML, CSS, and JavaScript with smooth navigation via React Router. Highlighted key sections like Skills, Certifications, Projects, and Contact, enhanced with interactive icons and deployed on Vercel for optimal performance.",
+    image: "Images/portfolio.png",
+    github: "https://github.com/KoushikMehta31/Personal_Portfolio",
+    skills: ["React.js", "HTML", "CSS", "JavaScript"],
   },
   {
     title: "",
