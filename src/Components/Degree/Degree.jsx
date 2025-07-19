@@ -10,6 +10,16 @@ const Degree = () => {
         <h3 className="card-title">Experience</h3>
        
         <p className="card-content">
+          <strong className="highlight">Tata Steel</strong>. 
+           Internship.
+          <br />
+          ( 5 May 2025 - 7 July 2025 )
+        </p>
+        <p className="card-subcontent">Data Analysis</p>
+      </div>
+
+
+        <p className="card-content">
           <strong className="highlight">Edu-versity</strong>. 
            Internship.
           <br />
