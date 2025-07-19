@@ -59,9 +59,9 @@ const Skills = () => {
           <span className="skill-badge skill-word">MS Word</span>
         </div>
       </div>
-
+</div>
       <Footer />
-    </div>
+    
   );
 };
 
