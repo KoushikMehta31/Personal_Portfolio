@@ -10,19 +10,18 @@ const projects = [
     "description": "Built a fully responsive portfolio using React.js, HTML, CSS, and JavaScript with smooth navigation via React Router. Highlighted key sections like Skills, Certifications, Projects, and Contact, enhanced with interactive icons and deployed on Vercel for optimal performance.",
     "image": "Images/portfolio.png",
     "github": "https://github.com/KoushikMehta31/Personal_Portfolio",
-    "linkedin": "#",
-    "Live": "https://personal-portfolio-beige-three-23.vercel.app/"
-  }
-  ,
+    // "linkedin": "#",
+    // "Live": "https://personal-portfolio-beige-three-23.vercel.app/"
+  },
 
-{
-  "title": "AI AutoCodeReview",
-  "description": "Developed an AI AutoCodeReview tool using Node.js, Express, React.js, and Google Generative AI. Enabled intelligent feedback generation via POST requests, with syntax highlighting (PrismJS) and Markdown rendering for clean code display.",
-  "image": "Images/codereview.jpeg", 
-  "github": "https://github.com/KoushikMehta31/AI-AutoCodeReview",
-  "linkedin": "#",
-  "Live": "YOUR_LIVE_DEMO_LINK"
-},
+// {
+//   "title": "AI AutoCodeReview",
+//   "description": "Developed an AI AutoCodeReview tool using Node.js, Express, React.js, and Google Generative AI. Enabled intelligent feedback generation via POST requests, with syntax highlighting (PrismJS) and Markdown rendering for clean code display.",
+//   "image": "Images/codereview.jpeg", 
+//   "github": "https://github.com/KoushikMehta31/AI-AutoCodeReview",
+//   "linkedin": "#",
+//   "Live": "YOUR_LIVE_DEMO_LINK"
+// },
 
 {
   "title": "Enquiry Management System",
@@ -33,14 +32,14 @@ const projects = [
   "Live": "YOUR_LIVE_DEMO_LINK"
 },
 
-{
-  "title": "Currency Converter Web App",
-  "description": "Developed a full-stack currency converter using React, Node.js, and Express. Integrated a third-party API for real-time rates, built a responsive UI with dark mode, and preserved user history using localStorage.",
-  "image": "Images/currency.png", 
-  "github": "https://github.com/KoushikMehta31/Currency-Converter",
-  "linkedin": "#",
-  "Live": "YOUR_LIVE_DEMO_LINK"
-},
+// {
+//   "title": "Currency Converter Web App",
+//   "description": "Developed a full-stack currency converter using React, Node.js, and Express. Integrated a third-party API for real-time rates, built a responsive UI with dark mode, and preserved user history using localStorage.",
+//   "image": "Images/currency.png", 
+//   "github": "https://github.com/KoushikMehta31/Currency-Converter",
+//   "linkedin": "#",
+//   "Live": "YOUR_LIVE_DEMO_LINK"
+// },
   {
     title: "",
     description: <span className="coming_soon">Coming soom.</span>,
