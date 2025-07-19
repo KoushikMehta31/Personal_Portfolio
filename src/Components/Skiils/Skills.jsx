@@ -4,6 +4,7 @@ import Footer from "../Footer/Footer";
 
 const Skills = () => {
   return (
+    <>
     <div className="skills-section">
       <h1 className="skills-title">Skills</h1>
       <p className="skills-subtitle">What I Know</p>
@@ -61,7 +62,7 @@ const Skills = () => {
       </div>
 </div>
       <Footer />
-    
+    </>
   );
 };
 
