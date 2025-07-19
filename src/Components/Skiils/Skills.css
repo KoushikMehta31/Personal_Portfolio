@@ -31,7 +31,7 @@
 
 .skills-category {
   margin: 20px auto;
-  max-width: 700px;
+  max-width: 900px;
   padding: 15px;
   background-color: #1e1e1e;
   border-radius: 10px;
@@ -46,34 +46,56 @@
 .skills-category h3 {
   font-size: 20px;
   color: #ffb347;
-  margin-bottom: 8px;
+  margin-bottom: 10px;
 }
 
-.skills-category p {
-  font-size: 16px;
-  color: #e0e0e0;
-  margin-left: 10px;
+.skill-badges {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 12px;
+  margin-top: 10px;
 }
 
-/* Responsive */
+.skill-badge {
+  padding: 8px 16px;
+  border-radius: 8px;
+  font-size: 14px;
+  font-weight: 500;
+  color: #fff;
+  background-color: #2a2a2a;
+  transition: transform 0.2s ease;
+}
+
+.skill-badge:hover {
+  transform: scale(1.05);
+}
+
+/* Individual badge colors */
+.skill-python { background-color: #306998; }
+.skill-java { background-color: #b07219; }
+.skill-js { background-color: #f0db4f; color: #000; }
+.skill-sql { background-color: #00758f; }
+
+.skill-html { background-color: #e34c26; }
+.skill-css { background-color: #264de4; }
+.skill-react { background-color: #61dafb; color: #000; }
+
+.skill-numpy { background-color: #4b8bbe; }
+.skill-pandas { background-color: #150458; }
+.skill-matplotlib { background-color: #11557c; }
+.skill-seaborn { background-color: #2e7bb4; }
+.skill-sqlite { background-color: #003b57; }
+
+.skill-excel { background-color: #217346; }
+.skill-powerbi { background-color: #f2c811; color: #000; }
+
+.skill-git { background-color: #f1502f; }
+.skill-github { background-color: #333; }
+.skill-word { background-color: #2b579a; }
+
 @media (max-width: 768px) {
-  .skills-category {
-    padding: 12px;
-  }
-
-  .skills-title {
-    font-size: 28px;
-  }
-
-  .skills-subtitle {
-    font-size: 16px;
-  }
-
-  .skills-category h3 {
-    font-size: 18px;
-  }
-
-  .skills-category p {
-    font-size: 15px;
-  }
+  .skills-title { font-size: 28px; }
+  .skills-subtitle { font-size: 16px; }
+  .skills-category h3 { font-size: 18px; }
+  .skill-badge { font-size: 13px; }
 }
