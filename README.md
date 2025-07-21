@@ -52,7 +52,7 @@ The **Projects** section displays a collection of projects I’ve worked on. Eac
 The **Contact** section includes a contact form and my personal details like email and social media profiles. Visitors can easily reach out to me directly through the form or connect with me on **LinkedIn** or **GitHub**. It’s designed to be simple and user-friendly.
 
 ### Mobile View
-![Mobile View](public/Images/phone.jpg)
+![Mobile View](public/Images/phone.jpeg)
 
 The mobile view ensures that the portfolio is fully **responsive**, providing a seamless experience on smaller screens. The layout adapts to fit smaller device widths, and navigation remains easy and intuitive, ensuring visitors on mobile devices can explore all sections without issues.
 
