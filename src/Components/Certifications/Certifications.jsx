@@ -6,34 +6,40 @@ import Footer from "../Footer/Footer";
 const Certifications = () => {
   const certificates = [
     {
-      image: "Images/WebDevApnaCollege.jpg", 
-      title: "Full Stack Web Development",
+      image: "Images/dataanalysis.jpg", 
+      title: "Data Science & Analytics",
       platform: "Apna College",
-      date: "Jan 2025",
+      status: "Completed",
+    },
+    {
+      image: "Images/dsa.jpg", 
+      title: "DSA With Java",
+      platform: "Apna College",
+      status: "Completed",
     },
     {
       image: "Images/LeetCode.jpg", 
       title: "Top LeetCode Interview Questions",
       platform: "Udemy",
-      date: "Dec 2023",
+      status: "Completed",
     },
     {
       image: "Images/Git_Github.jpg",  
       title: "Git and Github - Beginners to Expert",
       platform: "Udemy",
-      date: "Dec 2023",
+      status: "Completed",
     },
     {
       image: "Images/java.jpeg", 
       title: "Introduction To Java",
       platform: "LearnTube",
-      date: "July 2023",
+      status: "Completed",
     },
     {
       image: "Images/oop.jpg",
       title: "Object Oriented Programming",
       platform: "Great Learning",
-      date: "July 2023",
+      status: "Completed",
     },
   ];
 
