@@ -27,7 +27,7 @@ This project is a fully responsive portfolio website built using **React.js**, *
 ## Screenshots
 
 ### Homepage
-![Homepage](public/Images/homepages.png)
+![Homepage](public/Images/home.png)
 
 The homepage serves as the main entry point of the portfolio, featuring a clean layout with sections for an **Introduction**, **Skills**, **Projects**, and **Contact**. The **smooth navigation** is enabled through **React Router**, making it easy to switch between different sections. This page is designed to be **responsive**, so it looks great on both desktops and mobile devices.
 
@@ -37,12 +37,12 @@ The homepage serves as the main entry point of the portfolio, featuring a clean 
 The **Skills** section showcases a set of interactive icons representing various technologies and programming languages like **JavaScript**, **React.js**, **Node.js**, and others. Each icon is clickable, providing additional information about the skill and my expertise in it. This section is designed to be **interactive** and provides an engaging way for visitors to explore my technical capabilities.
 
 ### Certifications Section
-![Certifications Section](public/Images/certficate.png)
+![Certifications Section](public/Images/certf.png)
 
 The **Certifications** section highlights my professional certifications and achievements. Each certification is represented by a clickable icon that leads to a detailed explanation. The section is neatly organized to make it easy for visitors to see my credentials at a glance.
 
 ### Projects Section
-![Projects Section](public/Images/projects.png)
+![Projects Section](public/Images/project.png)
 
 The **Projects** section displays a collection of projects I’ve worked on. Each project is accompanied by a short description, technologies used, and a link to the live project or its source code. The design is clean and easy to navigate, allowing visitors to explore my work in detail.
 
@@ -52,7 +52,7 @@ The **Projects** section displays a collection of projects I’ve worked on. Eac
 The **Contact** section includes a contact form and my personal details like email and social media profiles. Visitors can easily reach out to me directly through the form or connect with me on **LinkedIn** or **GitHub**. It’s designed to be simple and user-friendly.
 
 ### Mobile View
-![Mobile View](public/Images/59004759-f2bc-4483-9316-d4d4139024fa.jpg)
+![Mobile View](public/Images/phone.jpg)
 
 The mobile view ensures that the portfolio is fully **responsive**, providing a seamless experience on smaller screens. The layout adapts to fit smaller device widths, and navigation remains easy and intuitive, ensuring visitors on mobile devices can explore all sections without issues.
 
