@@ -6,13 +6,19 @@ import Footer from "../Footer/Footer";
 const Certifications = () => {
   const certificates = [
     {
-      image: "Images/dataanalysis.jpg", 
+      image: "Images/data.jpg", 
       title: "Data Science & Analytics",
-      platform: "Apna College",
+      platform: "HP LIFE | HP Foundation",
       status: "Completed",
     },
     {
       image: "Images/dsa.jpg", 
+      title: "DSA With Java",
+      platform: "Apna College",
+      status: "Completed",
+    },
+    {
+      image: "Images/WebDevApnaCollege.jpg", 
       title: "DSA With Java",
       platform: "Apna College",
       status: "Completed",
