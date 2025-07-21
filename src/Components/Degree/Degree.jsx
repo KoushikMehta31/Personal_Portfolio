@@ -13,7 +13,7 @@ const Degree = () => {
           <strong className="highlight">Tata Steel</strong>. 
            Internship.
           <br />
-          ( May 2025 - July 2025 )
+          ( May 2025 - June 2025 )
         </p>
         <p className="card-subcontent">Data Analysis</p>
      
