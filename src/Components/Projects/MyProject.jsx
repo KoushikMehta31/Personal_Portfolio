@@ -47,7 +47,7 @@ const projects = [
     title: "Portfolio Web Application",
     description:
       "Built a fully responsive portfolio using React.js, HTML, CSS, and JavaScript with smooth navigation via React Router. Highlighted key sections like Skills, Certifications, Projects, and Contact, enhanced with interactive icons and deployed on Vercel for optimal performance.",
-    image: "Images/portfolio.png",
+    image: "Images/homepages.png",
     github: "https://github.com/KoushikMehta31/Personal_Portfolio",
     skills: ["React.js", "HTML", "CSS", "JavaScript"],
   },
