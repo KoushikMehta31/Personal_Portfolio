@@ -23,7 +23,7 @@ const projects = [
   title: "EDA Placement Analysis Using Python",
   description:
     "Performed Exploratory Data Analysis (EDA) on a placement dataset sourced from Kaggle using Python and Pandas. Cleaned and preprocessed data by handling null values, duplicates, and inconsistent entries. Created insightful visualizations using Matplotlib and Seaborn to uncover key trends and factors affecting student placements.",
-  image: "Images/eda-placement-analysis.png", // Replace with the actual image path
+  image: "Images/placement.png", // Replace with the actual image path
   github: "https://github.com/KoushikMehta31/EDA-Placement-Analysis", // Update if different
   skills: ["Python", "Pandas", "Matplotlib", "Seaborn", "EDA", "Data Visualization","Data Cleaning","Kaggle"]
 },
@@ -31,7 +31,7 @@ const projects = [
   title: "Students Performance in Exam",
   description:
     "Performed analysis on student performance data to understand how factors like gender, parental education, and test preparation affect exam scores. Used Python and pandas for data cleaning and preprocessing. Conducted EDA and created visualizations to explore relationships between different variables.",
-  image: "Images/student-performance.png", // Replace with actual image path
+  image: "Images/student.png", // Replace with actual image path
   github: "https://github.com/KoushikMehta31/Student-Performance-EDA", // Update if different
   skills: ["Python", "Pandas", "Matplotlib", "Seaborn", "EDA", "Data Cleaning"]
 },
@@ -39,7 +39,7 @@ const projects = [
   title: "E-commerce Sales Data Analysis",
   description:
     "Performed data analysis on e-commerce sales data to uncover insights on product performance, customer behavior, and regional trends. Cleaned and explored the dataset using Python and Pandas. Created interactive visualizations using Matplotlib and Seaborn to identify top-selling products, sales distribution, and category-wise performance.",
-  image: "Images/ecommerce-sales-analysis.png", // Replace with actual image path
+  image: "Images/ecommerce.png", // Replace with actual image path
   github: "https://github.com/KoushikMehta31/Ecommerce-Sales-Analysis", // Update if different
   skills: ["Python", "Pandas", "Matplotlib", "Seaborn", "EDA", "Data Visualization","Data Cleaning"]
 },
