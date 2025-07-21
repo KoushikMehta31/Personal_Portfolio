@@ -4,39 +4,45 @@ import Footer from "../Footer/Footer";
 
 const projects = [
   {
-    title: "Pan & Aadhaar Card Fraud Detection",
-    description:
-      "Built a fully responsive portfolio using React.js, HTML, CSS, and JavaScript with smooth navigation via React Router. Highlighted key sections like Skills, Certifications, Projects, and Contact, enhanced with interactive icons and deployed on Vercel for optimal performance.",
-    image: "Images/portfolio.png",
-    github: "https://github.com/KoushikMehta31/Personal_Portfolio",
-    skills: ["React.js", "HTML", "CSS", "JavaScript"],
-  },
+  title: "PAN & Aadhaar Card Fraud Detection",
+  description:
+    "Created and structured employee datasets in MS Excel and performed data cleaning and transformation using MySQL. Managed and validated data to support fraud detection rules related to PAN and Aadhaar cards. Imported the cleaned data into Power BI and developed an interactive dashboard to visualize fraud detection patterns and insights.",
+  image: "Images/pan-aadhaar-fraud.png", // Replace with the actual image file
+  github: "https://github.com/KoushikMehta31/Pan-Aadhaar-Fraud-Detection", // Update if different
+  skills: ["MS Excel", "SAP BIS", "Data Cleaning", "MySQL", "Power BI"]
+},
   {
-    title: "Indian Bike Sales Analysis Using Excel",
-    description:
-      "Built a fully responsive portfolio using React.js, HTML, CSS, and JavaScript with smooth navigation via React Router. Highlighted key sections like Skills, Certifications, Projects, and Contact, enhanced with interactive icons and deployed on Vercel for optimal performance.",
-    image: "Images/portfolio.png",
-    github: "https://github.com/KoushikMehta31/Personal_Portfolio",
-    skills: ["React.js", "HTML", "CSS", "JavaScript"],
-  },
-  
+  title: "Indian Bike Sales Analysis Using Excel",
+  description:
+    "Analyzed Indian bike sales data from Kaggle using Excel to derive insights on brand performance and sales trends. Cleaned the dataset by handling duplicates and inconsistencies to ensure accuracy. Created an interactive dashboard using Pivot Tables and Excel charts for dynamic and insightful data visualization.",
+  image: "Images/bike-sales-analysis.png", // Replace with your actual image path
+  github: "https://github.com/KoushikMehta31/Indian-Bike-Sales-Excel", // Update with actual GitHub repo
+  skills: ["MS Excel", "Pivot Tables", "Excel Charts", "Data Visualization","Data Cleaning", "Kaggle"]
+},
   {
-    title: "EDA Placement Analysis Using Python",
-    description:
-      "Built a fully responsive portfolio using React.js, HTML, CSS, and JavaScript with smooth navigation via React Router. Highlighted key sections like Skills, Certifications, Projects, and Contact, enhanced with interactive icons and deployed on Vercel for optimal performance.",
-    image: "Images/portfolio.png",
-    github: "https://github.com/KoushikMehta31/Personal_Portfolio",
-    skills: ["React.js", "HTML", "CSS", "JavaScript"],
-  },
-  
+  title: "EDA Placement Analysis Using Python",
+  description:
+    "Performed Exploratory Data Analysis (EDA) on a placement dataset sourced from Kaggle using Python and Pandas. Cleaned and preprocessed data by handling null values, duplicates, and inconsistent entries. Created insightful visualizations using Matplotlib and Seaborn to uncover key trends and factors affecting student placements.",
+  image: "Images/eda-placement-analysis.png", // Replace with the actual image path
+  github: "https://github.com/KoushikMehta31/EDA-Placement-Analysis", // Update if different
+  skills: ["Python", "Pandas", "Matplotlib", "Seaborn", "EDA", "Data Visualization","Data Cleaning","Kaggle"]
+},
   {
-    title: "Students Performance in Exam",
-    description:
-      "Built a fully responsive portfolio using React.js, HTML, CSS, and JavaScript with smooth navigation via React Router. Highlighted key sections like Skills, Certifications, Projects, and Contact, enhanced with interactive icons and deployed on Vercel for optimal performance.",
-    image: "Images/portfolio.png",
-    github: "https://github.com/KoushikMehta31/Personal_Portfolio",
-    skills: ["React.js", "HTML", "CSS", "JavaScript"],
-  },
+  title: "Students Performance in Exam",
+  description:
+    "Performed analysis on student performance data to understand how factors like gender, parental education, and test preparation affect exam scores. Used Python and pandas for data cleaning and preprocessing. Conducted EDA and created visualizations to explore relationships between different variables.",
+  image: "Images/student-performance.png", // Replace with actual image path
+  github: "https://github.com/KoushikMehta31/Student-Performance-EDA", // Update if different
+  skills: ["Python", "Pandas", "Matplotlib", "Seaborn", "EDA", "Data Cleaning"]
+},
+  {
+  title: "E-commerce Sales Data Analysis",
+  description:
+    "Performed data analysis on e-commerce sales data to uncover insights on product performance, customer behavior, and regional trends. Cleaned and explored the dataset using Python and Pandas. Created interactive visualizations using Matplotlib and Seaborn to identify top-selling products, sales distribution, and category-wise performance.",
+  image: "Images/ecommerce-sales-analysis.png", // Replace with actual image path
+  github: "https://github.com/KoushikMehta31/Ecommerce-Sales-Analysis", // Update if different
+  skills: ["Python", "Pandas", "Matplotlib", "Seaborn", "EDA", "Data Visualization","Data Cleaning"]
+},
   {
     title: "Portfolio Web Application",
     description:
