@@ -10,10 +10,10 @@ const Home = () =>{
       <img src="/Images/Me.avif" className="img-fluid about-image" alt="images"></img>
       <div className="home-container">
       <h1>
-        I'm a <span className="Highlight">Data Analyst</span>.
+        I'm a <span className="Highlight">KOUSHIK MEHTA</span>.
       </h1>
       <p className="home-description">
-        Business Analysis | Frontend Developer | Programmer
+        data Analysis | Frontend Developer | Programmer
       </p>
       <a href="https://koushikmehtaresume.tiiny.site/" target="_blank" rel="noopener noreferrer">
         <button className="home-button">Resume</button>
@@ -69,3 +69,4 @@ const Home = () =>{
 };
 
 export default Home;
+
