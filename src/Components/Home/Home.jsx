@@ -36,29 +36,31 @@ const Home = () =>{
   <center className="intro-icon">📊</center>
   <center className="intro">About Me</center>
 
-  <p>
-    I’m <strong>Koushik Mehta</strong>, a passionate and results-driven <strong>Data Analyst</strong> with hands-on experience in<strong> data cleaning, exploratory data analysis (EDA), visualization, and dashboard development</strong>.
-  </p>
+<p>
+  I’m <strong>Koushik Mehta</strong>, a dedicated <strong>Data Analyst</strong> and <strong>Web Developer</strong> with hand-on-experience in <strong>data cleaning, analysis, visualization</strong>, and creating <strong>interactive dashboards</strong>.
+</p>
 
-  <p>
-    I’m currently pursuing my B.Tech in <strong>Computer Science Engineering</strong> at<strong> Birla Institute of Technology, Mesra</strong>, and I hold a Diploma in CSE from<strong> Al-Kabir Polytechnic</strong>.
-  </p>
+<p>
+  I’m currently studying <strong>B.Tech in Computer Science Engineering</strong> at <strong>Birla Institute of Technology, Mesra</strong>. I also hold a <strong>Diploma in CSE</strong> from <strong>Al-Kabir Polytechnic</strong>.
+</p>
 
-  <p>
-    My recent internships at <strong>Tata Steel</strong> and <strong>outriX</strong> helped me gain practical exposure to<strong> fraud detection, HR analytics, and sales dashboard</strong> using tools like <strong>Excel, MySQL, Python, and Power BI</strong>.
-  </p>
+<p>
+  I recently completed internships at <strong>Tata Steel</strong> and <strong>outriX</strong>, where I worked on <strong>fraud detection, HR analytics</strong>, and <strong>sales dashboards</strong> using <strong>Excel, MySQL, Python</strong>, and <strong>Power BI</strong>.
+</p>
 
-  <p>
-    I specialize in tools and techniques such as <strong>Python (Pandas, Matplotlib, Seaborn)</strong>,<strong> SQL</strong> for database management, and <strong>Power BI</strong> for delivering<strong> interactive business dashboards</strong> that drive insights and decision-making.
-  </p>
+<p>
+  I use <strong>Python (Pandas, Matplotlib, Seaborn)</strong> for data analysis, <strong>SQL</strong> for databases, <strong>Power BI</strong> for dashboards, and <strong>Excel</strong> for reports.
+</p>
 
-  <p>
-    I also bring additional strengths in <strong>web development</strong> (HTML, CSS, JavaScript, React.js).
-  </p>
+<p>
+  I also build websites and web apps using <strong>HTML, CSS, JavaScript, React.js, Node.js, Express.js</strong>, and <strong>MongoDB</strong>.
+</p>
 
-  <p>
-    With a <strong>problem-solving mindset</strong>, a growing portfolio of real-world data projects, and certifications in<strong> Data Analytics</strong> and <strong>Machine Learning</strong>, I am eager to contribute to data-driven environments and unlock business value through analytics.
-  </p>
+<p>
+  Currently, I’m learning <strong>Machine Learning</strong> and I enjoy solving problems and building useful data and web solutions.
+</p>
+
+
 </div>
 
     <Footer/>
@@ -69,5 +71,6 @@ const Home = () =>{
 };
 
 export default Home;
+
 
 
