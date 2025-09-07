@@ -36,32 +36,47 @@ const Home = () =>{
   <center className="intro-icon">📊</center>
   <center className="intro">About Me</center>
 
-<p>
-  I’m <strong>Koushik Mehta</strong>, a dedicated <strong>Data Analyst</strong> and <strong>Web Developer</strong> with hand-on-experience in <strong>data cleaning, analysis, visualization</strong>, and creating <strong>interactive dashboards</strong>.
-</p>
+  <p>
+    I’m <strong>Koushik Mehta</strong>, a dedicated <strong>Data Analyst</strong> and 
+    <strong> AI/ML Enthusiast</strong> with hands-on experience in 
+    <strong> data cleaning, analysis, visualization</strong>, and building 
+    <strong> interactive dashboards</strong>.
+  </p>
 
-<p>
-  I’m currently studying <strong>B.Tech in Computer Science Engineering</strong> at <strong>Birla Institute of Technology, Mesra</strong>. I also hold a <strong>Diploma in CSE</strong> from <strong>Al-Kabir Polytechnic</strong>.
-</p>
+  <p>
+    I’m currently pursuing a <strong>B.Tech in Computer Science Engineering</strong> at 
+    <strong> Birla Institute of Technology, Mesra</strong>, and also hold a 
+    <strong> Diploma in CSE</strong> from <strong>Al-Kabir Polytechnic</strong>.
+  </p>
 
-<p>
-  I recently completed internships at <strong>Tata Steel</strong> and <strong>outriX</strong>, where I worked on <strong>fraud detection, HR analytics</strong>, and <strong>sales dashboards</strong> using <strong>Excel, MySQL, Python</strong>, and <strong>Power BI</strong>.
-</p>
+  <p>
+    I gained valuable industry experience through internships at 
+    <strong> Tata Steel</strong> and <strong>outriX</strong>, where I worked on 
+    <strong> fraud detection, HR analytics</strong>, and 
+    <strong> sales dashboards</strong> using 
+    <strong> Python, SQL, Excel,</strong> and <strong>Power BI</strong>.
+  </p>
 
-<p>
-  I use <strong>Python (Pandas, Matplotlib, Seaborn)</strong> for data analysis, <strong>SQL</strong> for databases, <strong>Power BI</strong> for dashboards, and <strong>Excel</strong> for reports.
-</p>
+  <p>
+    I also have hands-on experience in <strong>AI/ML development</strong> through projects like:
+    <ul>
+      <li>
+        <strong>Language Detection using Machine Learning & NLP</strong> – built a text classification 
+        model to detect multiple languages from input text.
+      </li>
+      <li>
+        <strong>Customer Churn Analysis & Prediction</strong> – developed predictive models to identify 
+        customers at risk of leaving, enabling data-driven retention strategies.
+      </li>
+    </ul>
+  </p>
 
-<p>
-  I also build websites and web apps using <strong>HTML, CSS, JavaScript, React.js, Node.js, Express.js</strong>, and <strong>MongoDB</strong>.
-</p>
-
-<p>
-  Currently, I’m learning <strong>Machine Learning</strong> and I enjoy solving problems and building useful data and web solutions.
-</p>
-
-
+  <p>
+    Currently, I’m enhancing my expertise in <strong>Machine Learning & AI</strong>, exploring algorithms 
+    and real-world applications to build <strong>scalable, data-driven solutions</strong>.
+  </p>
 </div>
+
 
     <Footer/>
     </center>
@@ -71,6 +86,7 @@ const Home = () =>{
 };
 
 export default Home;
+
 
 
 
