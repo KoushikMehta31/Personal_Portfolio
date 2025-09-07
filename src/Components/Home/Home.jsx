@@ -13,9 +13,9 @@ const Home = () =>{
         I'm a <span className="Highlight">Koushik Mehta</span>.
       </h1>
       <p className="home-description">
-        Data Analyst | Frontend Developer | Programmer
+        Data Analyst | AI/ML | Data Science | Programmer
       </p>
-      <a href="https://koushikmehtaresume.tiiny.site/" target="_blank" rel="noopener noreferrer">
+      <a href="https://drive.google.com/file/d/1TO3hY94GyqblvrtpCastbvVJvYzLEHS1/view" target="_blank" rel="noopener noreferrer">
         <button className="home-button">Resume</button>
       </a>
       <div className="social-icons">
@@ -86,6 +86,7 @@ const Home = () =>{
 };
 
 export default Home;
+
 
 
 
