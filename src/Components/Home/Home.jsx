@@ -37,8 +37,7 @@ const Home = () =>{
   <center className="intro">About Me</center>
 
   <p>
-    I’m <strong>Koushik Mehta</strong>, a dedicated <strong>Data Analyst</strong> and 
-    <strong> AI/ML Enthusiast</strong> with hands-on experience in 
+    I’m <strong>Koushik Mehta</strong>, a dedicated <strong>Data Analyst</strong> with hands-on experience in 
     <strong> data cleaning, analysis, visualization</strong>, and building 
     <strong> interactive dashboards</strong>.
   </p>
@@ -86,6 +85,7 @@ const Home = () =>{
 };
 
 export default Home;
+
 
 
 
