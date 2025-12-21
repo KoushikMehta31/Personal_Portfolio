@@ -16,16 +16,6 @@ const Degree = () => {
           ( May 2025 - June 2025 )
         </p>
         <p className="card-subcontent">Data Analysis</p>
-     
-
-           <p className="card-content">
-          <strong className="highlight">outriX</strong>. 
-           Internship.
-          <br />
-          ( June 2025 - July 2025 )
-        </p>
-        <p className="card-subcontent">Data Analysis</p>
-     
 
 
         <p className="card-content">
