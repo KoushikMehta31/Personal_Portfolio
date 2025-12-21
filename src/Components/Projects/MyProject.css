@@ -3,6 +3,21 @@ body {
   font-family: Arial, sans-serif;
 }
 
+.app h1 {
+  font-size: 2.5rem;
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+.app h1::after {
+  content: "";
+  display: block;
+  width: 60px;
+  height: 4px;
+  background-color: #06f90e;
+  margin: 8px auto;
+}
+
 .app {
   text-align: center;
   padding-top: 20px;
@@ -10,13 +25,6 @@ body {
   color: #f9f6f6;
 }
 
-.title {
-  margin-bottom: 20px;
-  font-size: 2rem;
-  font-weight: bold;
-}
-
-/* Project Grid */
 .projects-container {
   display: grid;
   grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
@@ -86,7 +94,6 @@ body {
   background-color: #444;
 }
 
-/* GitHub Button Only */
 .project-links {
   display: flex;
   justify-content: center;
