@@ -6,32 +6,15 @@ import Footer from "../Footer/Footer";
 const Certifications = () => {
   const certificates = [
     {
-      image: "Images/data.jpg", 
+      image: "Images/WebDevApnaCollege.jpg", 
+      title: "Full Stack Web Development",
+      platform: "Apna College",
+      
+    },
+    {
+      image: "Images/data.jpg",
       title: "Data Science & Analytics",
       platform: "HP LIFE | HP Foundation",
-    },
-    {
-      image: "Images/dsa.jpg", 
-      title: "DSA With Java",
-      platform: "Apna College",
-    },
-    {
-      image: "Images/WebDevApnaCollege.jpg", 
-      title: "DSA With Java",
-      platform: "Apna College",
-      
-    },
-    {
-      image: "Images/LeetCode.jpg", 
-      title: "Top LeetCode Interview Questions",
-      platform: "Udemy",
-      
-    },
-    {
-      image: "Images/Git_Github.jpg",  
-      title: "Git and Github - Beginners to Expert",
-      platform: "Udemy",
-      
     },
     {
       image: "Images/java.jpeg", 
@@ -43,6 +26,23 @@ const Certifications = () => {
       image: "Images/oop.jpg",
       title: "Object Oriented Programming",
       platform: "Great Learning",
+      
+    },
+    {
+      image: "Images/dsa.jpg",
+      title: "DSA With Java",
+      platform: "Apna College",
+    },
+    {
+      image: "Images/LeetCode.jpg", 
+      title: "Top LeetCode Interview Questions",
+      platform: "Udemy",
+      
+    },
+    {
+      image: "Images/Git_Github.jpg",  
+      title: "Git and Github - Beginners to Expert",
+      platform: "Udemy",
       
     },
   ];
