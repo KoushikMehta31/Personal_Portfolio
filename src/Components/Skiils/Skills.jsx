@@ -9,20 +9,17 @@ const Skills = () => {
       <h1 className="skills-title">Skills</h1>
       <p className="skills-subtitle">What I Know</p>
 
-      {/* Programming Languages */}
       <div className="skills-category">
         <h3>👨‍💻 Programming Languages:</h3>
         <div className="skill-badges">
-          <span className="skill-badge skill-python">Python</span>
           <span className="skill-badge skill-java">Java</span>
           <span className="skill-badge skill-js">JavaScript</span>
-          <span className="skill-badge skill-sql">MySQL</span>
+          <span className="skill-badge skill-python">Python</span>
         </div>
       </div>
 
-      {/* Web Technologies */}
       <div className="skills-category">
-        <h3>🌐 Web Technologies:</h3>
+        <h3>🌐 Frontend Technologies:</h3>
         <div className="skill-badges">
           <span className="skill-badge skill-html">HTML</span>
           <span className="skill-badge skill-css">CSS</span>
@@ -30,34 +27,40 @@ const Skills = () => {
         </div>
       </div>
 
-      {/* Python Libraries */}
+
+      <div className="skills-category">
+        <h3>🌐 Backend Technologies:</h3>
+        <div className="skill-badges">
+          <span className="skill-badge skill-powerbi">Node.js</span>
+          <span className="skill-badge skill-express">Express.js</span>
+        </div>
+      </div>
+
       <div className="skills-category">
         <h3>📦 Python Libraries & Tools:</h3>
         <div className="skill-badges">
+           <span className="skill-badge skill-pandas">Pandas</span>
           <span className="skill-badge skill-numpy">NumPy</span>
-          <span className="skill-badge skill-pandas">Pandas</span>
           <span className="skill-badge skill-matplotlib">Matplotlib</span>
           <span className="skill-badge skill-seaborn">Seaborn</span>
-          <span className="skill-badge skill-sqlite">SQLite3</span>
         </div>
       </div>
 
-      {/* Data Analytics */}
       <div className="skills-category">
         <h3>📊 Data Visualization & Analytics:</h3>
         <div className="skill-badges">
-          <span className="skill-badge skill-excel">MS Excel</span>
+          <span className="skill-badge skill-excel">Microsoft Excel</span>
           <span className="skill-badge skill-powerbi">Power BI</span>
         </div>
       </div>
-
-      {/* Tools */}
       <div className="skills-category">
         <h3>🔧 Version Control & Tools:</h3>
         <div className="skill-badges">
           <span className="skill-badge skill-git">Git</span>
           <span className="skill-badge skill-github">GitHub</span>
-          <span className="skill-badge skill-word">MS Word</span>
+          <span className="skill-badge skill-word">Microsoft Word</span>
+          <span className="skill-badge skill-jupyter">Jupyter Notebook</span>
+
         </div>
       </div>
 </div>
