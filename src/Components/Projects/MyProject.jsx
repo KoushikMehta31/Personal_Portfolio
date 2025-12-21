@@ -79,7 +79,7 @@ const projects = [
     title: "",
     description: <span className="coming_soon">Coming soon.</span>,
     image: "Images/coming_soon.jpg",
-    github: "#",
+    github: "https://personal-portfolio-beige-three-23.vercel.app/myproject",
     skills: [],
   },
 ];
@@ -132,3 +132,4 @@ const MyProject = () => {
 };
 
 export default MyProject;
+
